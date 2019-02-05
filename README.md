@@ -10,7 +10,7 @@ Below I share you some questions from [Zapatistas](http://enlacezapatista.ezln.o
 
 ### Street Art
 
-### Identity QUEER and its intersection with Art
+### Identity Queer and its intersection with Art
 
 #### Requirements:
 
