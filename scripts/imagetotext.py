@@ -2,7 +2,9 @@
 from PIL import Image
 
 
-ASCII_CHARS = [ '#', '?', '%', '.', 'S', '+', '.', '*', ':', ',', '@']
+ASCII_CHARS = [ '@', '?', '%', '.', 'S', '+', '.', '*', ':', ',', '#']
+
+#ASCII_CHARS = [ '#', '?', '%', '.', 'S', '+', '.', '*', ':', ',', '@']
 
 def scale_image(image, new_width=100):
     """Resizes an image preserving the aspect ratio.
