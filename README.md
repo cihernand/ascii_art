@@ -36,7 +36,7 @@ sudo apt-get -y upgrade
 python3 -V
 sudo apt-get install -y python3-pip
 pip3 install [package_name]
-
+```
 ##### Python3 in OS
 
 ``` console
