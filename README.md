@@ -9,7 +9,10 @@ Some questions from Zapatistas:
 
 "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?" 
 
- 
+### Street Art
+
+### Intersectional Art
+
 #### Requirements:
 
 ##### Python3 in ubuntu
