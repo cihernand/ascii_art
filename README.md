@@ -1,4 +1,4 @@
-### Cyber activism with ASCII_ArtE
+### Cyberactivism with ASCII-ArtE
 
 
 Artist and non-artist from the world:
