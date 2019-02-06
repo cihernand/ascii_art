@@ -15,18 +15,18 @@ Below I share you some questions from [Zapatistas](http://enlacezapatista.ezln.o
 
 By Chad Elias
 
-The extraordinary proliferation of street art and  Graffiti
+"The extraordinary proliferation of street art and  Graffiti
 in Egyptian towns and cities has made new forms of democratic 
 participation in public space possible. (...) Graffiti invites
 citizens to actively participate in public debate about how to live 
 together and declare their rights under authoritarian power 
-structures.
+structures."
 
 
 #### Fragments from The Sad Transition
 By Sad Panda
 
-Humanity can be described  using a multitude of adjectives depending 
+"Humanity can be described  using a multitude of adjectives depending 
 upon the realities surrounding a person. One's upbringing or current
 environment, political or economical surroundings, or social
 life defined by the family and friends help define their existence.
@@ -34,10 +34,10 @@ People distinguish themselves from one another through their education,
 jobs, or financial status. Each person has a unique talent that sets
 them apart from others - some draw, others write; some plant,others beg.
 But while everyone has experienced moments full of happiness, hard work,or
-accomplishment, there is only one feeling that is universal - sadness.
+accomplishment, there is only one feeling that is universal - sadness."
 
 
-The thing that has made me most sad in my experience with people
+"The thing that has made me most sad in my experience with people
 is their ability to trivialize the greatest things. This is the
 blindness that I mention above. People trivialize great things: the
 ability for a human being to wake up every morning and not die,
@@ -48,17 +48,17 @@ and natural and doesn't consciously think about. In contrast, people
 prioritize money, cars, football, and large-chested women. It is normal for 
 a person this blind to claim he is happy after buying a huge car in a country 
 with no proper road infrastructure, or when marrying a beautiful, doll-like
-woman with multiple plastic surgeries.
+woman with multiple plastic surgeries."
 
-We must destroy these corrupt theories of happiness. We must cure people
+"We must destroy these corrupt theories of happiness. We must cure people
 of their blindness, each in their own way. While some people write and 
 others paint. I myself vandalize their property to spread sadness everywhere,
-in the hope that they feel all the sadness of this morbid world.
+in the hope that they feel all the sadness of this morbid world."
 
-Sad Panda has been drawing on walls since 2008, in different locations around
+[Sad Panda](https://www.facebookcorewwwi.onion/sadpandaa/) has been drawing on walls since 2008, in different locations around
 Cairo.
 
-[Sad Panda](https://www.facebookcorewwwi.onion/sadpandaa/)
+
 
 ### Identity Queer and its intersection with Art
 
