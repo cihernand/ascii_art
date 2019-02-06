@@ -2,11 +2,15 @@
 
 Dear artists, creators and enthusiastics from the World,
 
-The limits of our creativity are constantly challenged by the innvention of new worlds, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by bots and algorithms, represents an invitation for rebellion and resistance to defend the cyberspace.
+The limits of our creativity are constantly challenged by the innvention of new worlds, new forms of expression, new technologies, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by bots and algorithms, represents an invitation for rebellion and resistance to defend the cyberspace.
 
 Below I share you some questions from [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/07/15/art-resistance-and-rebellion-on-the-net/) and the project [compArte](http://comparte.digital) digital :
 
 "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?" 
+
+### Queer Cyberactivism 
+
+Is the cyberspace ...
 
 ### How do Street Art and ASCII ArtE intersect?
 
@@ -54,7 +58,7 @@ of their blindness, each in their own way. While some people write and
 others paint. I myself vandalize their property to spread sadness everywhere,
 in the hope that they feel all the sadness of this morbid world."
 
-[Sad Panda](https://www.facebookcorewwwi.onion/sadpandaa/) has been drawing on walls since 2008, in different locations around
+[Sad Panda](https://www.facebook.com/sadpandaa/) has been drawing on walls since 2008, in different locations around
 Cairo.
 
 
@@ -63,7 +67,7 @@ Cairo.
 #### Queer Identity and Street Art Activism 
 By Bansky
 
-[Queen Vic](http://i.ebayimg.com/16/!BdhfGgg!2k~$(KGrHqEOKjUEq3-GyigbBK5QKmv8P!~~_3.JPG) 
+[Queen Vic](http://www.smartmodernart.com/image-files/queenvicred32x20in.jpg) 
 "(Queen Victoria) is a 2003 work and one of the
 first images printed at prictures On Walls, the artist's print 
 house, which opened its doors in 2003 at 46 Commercial Rd., London.
