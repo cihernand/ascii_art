@@ -1,4 +1,4 @@
-### Cyberactivism with ASCII-ArtE
+## Cyberactivism with ASCII-ArtE
 
 Dear artists, creators and enthusiasts from the world,
 
@@ -115,7 +115,7 @@ sudo apt-get install -y python3-pip
 pip3 install [package_name]
 ```
 
-#### Copyrigth disclaimer:
+#### Copyright disclaimer:
 
 The audiovisual and written materials are used in this repository under the principle of fair use ( free use, fair dealing and fair practice) for purposes of commentary and teaching the use of ASCII-art and street art as a form of political activism. The  the general public will access to this material during a workshop to celebrate the LGBTQ+ Historical Month, in Cambridge, UK.
 
