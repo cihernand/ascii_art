@@ -8,10 +8,9 @@ Below I share you some questions from [Zapatistas](http://enlacezapatista.ezln.o
 
 "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?" 
 
-### Street Art
+### How do Street Art and ASCII ArtE intersect?
 
-
-#### Graffiti, social media and the public life of the images in the egyptian revolution.
+#### The Role of Graffiti and Street Art in the public life, images in the egyptian revolution.
 
 By Chad Elias
 
@@ -59,8 +58,22 @@ in the hope that they feel all the sadness of this morbid world."
 Cairo.
 
 
+### Art makes intersect universal human identities and experiences
 
-### Identity Queer and its intersection with Art
+#### Queer Identity and Street Art Activism 
+By Bansky
+
+"Queen Vic (Queen Victoria) is a 2003 work and one of the
+first images printed at prictures On Walls, the artist's print 
+house, which opened its doors in 2003 at 46 Commercial Rd., London.
+Bansky is famous for satirizing power: the image depics Queen
+Victoria as a lesbian engaged in "queening". Queen Victoria
+once declared that woman aren't able to be gay and approved laws
+against homosexuality. The stencil is located on the rulling 
+shutter of a store between St. Mark's Road and Brenner Street in 
+Bristol in 2002. The image was displayed on a cavanas for the first
+time in 2003 in a collective exhibition at the Vanina Holasek Gallery 
+in New York."
 
 #### Requirements:
 
@@ -96,3 +109,5 @@ python3 -V
 sudo apt-get install -y python3-pip
 pip3 install [package_name]
 ```
+
+#### Copyrigth disclaimair:
