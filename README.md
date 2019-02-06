@@ -63,7 +63,8 @@ Cairo.
 #### Queer Identity and Street Art Activism 
 By Bansky
 
-"[Queen Vic](http://i.ebayimg.com/16/!BdhfGgg!2k~$(KGrHqEOKjUEq3-GyigbBK5QKmv8P!~~_3.JPG) (Queen Victoria) is a 2003 work and one of the
+[Queen Vic](http://i.ebayimg.com/16/!BdhfGgg!2k~$(KGrHqEOKjUEq3-GyigbBK5QKmv8P!~~_3.JPG) 
+"(Queen Victoria) is a 2003 work and one of the
 first images printed at prictures On Walls, the artist's print 
 house, which opened its doors in 2003 at 46 Commercial Rd., London.
 Bansky is famous for satirizing power: the image depics Queen
