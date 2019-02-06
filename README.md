@@ -1,6 +1,6 @@
 ### Cyberactivism with ASCII-ArtE
 
-Dear artists, creators and enthusiastics from the World:
+Dear artists, creators and enthusiastics from the World,
 
 The limits of our creativity are constantly challenged by the innvention of new worlds, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by bots and algorithms, represents an invitation for rebellion and resistance to defend the cyberspace.
 
@@ -9,6 +9,18 @@ Below I share you some questions from [Zapatistas](http://enlacezapatista.ezln.o
 "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?" 
 
 ### Street Art
+
+
+#### Graffiti, social media and the public life of the images in the egyptian revolution.
+
+By Chad Elias
+
+The extraordinary proliferation of street art and  Graffiti
+in Egyptian towns and cities has made new forms of democratic 
+participation in public space possible. (...) Graffiti invites
+citizens to actively participate in public debate about how to live 
+together and declare their rights under authoritarian power 
+structures.
 
 
 #### Fragments from The Sad Transition
@@ -46,7 +58,7 @@ in the hope that they feel all the sadness of this morbid world.
 Sad Panda has been drawing on walls since 2008, in different locations around
 Cairo.
 
-[Sad Panda] (https://www.facebookcorewwwi.onion/sadpandaa/)
+[Sad Panda](https://www.facebookcorewwwi.onion/sadpandaa/)
 
 ### Identity Queer and its intersection with Art
 
