@@ -115,4 +115,9 @@ sudo apt-get install -y python3-pip
 pip3 install [package_name]
 ```
 
-#### Copyrigth disclaimair:
+#### Copyrigth disclaimer:
+
+The audiovisual and written materials are used in this repository under the principle of fair use ( free use, fair dealing and fair practice) for purposes of commentary and teaching the use of ASCII-art and street art as a form of political activism. The  the general public will access to this material during a workshop to celebrate the LGBTQ+ Historical Month, in Cambridge, UK.
+
+Material obtained from [WALLS OF FREEDOM](https://wallsoffreedom.com/).
+"It is a powerful portrayal of the first three years of the Egyptian revolution that began on January 25, 2011.The story is told through striking images of art that transformed Egypt’s walls into a visual testimony of bravery and resistance. Created in close collaboration with artists on the frontlines of the battle, the book documents how they converted the streets into a dynamic newspaper of the people, providing a much needed alternative to the propaganda-fueled media. This comprehensive survey of iconic street art of the Egyptian revolution includes a chronicle of the day-to-day volatile political situation as it rapidly unfolded. ‘Walls of Freedom’ traces the revolutionary journey, from the early pinnacle of extraordinary hope and inspiration, to its decline into today’s violent Orwellian nightmare. Haunting images of key events captured by acclaimed photographers and activists set the stage for this political drama. Enriched with essays by artists and experts across many fields, Walls of Freedom contextualizes the graffiti in the historical, socio-political, and cultural backgrounds that have shaped this art of the revolution.Curated & edited by Basma Hamdy, Don Karl Foreword by Ahdaf Soueif Booker prize finalist, novelist, political & cultural commentator."
