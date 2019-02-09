@@ -28,20 +28,31 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 ### Art, an universal language to portrait our human experiences
 
-####This is the part where the workshop starts...   °|°)  
+                                               This is the part where the workshop starts...   °|°)  
 
-####°/° We will create something to bring us to existence, we will create something to be visible (^^), we will see us through others and we will connect our ####experiences with testimonies of people who we have never meet [==] or who have been always there but we have decided to never see /¬¬'/.
-####This is a collective project, it is an experiment to expand our souls, our minds, our hearts.
+°/° We will create something to bring us to existence, we will create something to be visible (^^), we will see us through others and we will connect our experiences with testimonies of people who we have never meet [==] or who have been always there but we have decided to never see /¬¬'/.
+
+                   This is a collective project, it is an experiment to expand our souls, our minds, our hearts.
 
 
 ``` bash
 
 
-╔═╗┬─┐┌─┐┌─┐   ┬  ┬┌─┐┌┬┐┌─┐┌┐┌    ┌─┐┌┐┌┌┬┐  ┌─┐┌─┐┌─┐┬    ┬ ┬┌─┐┬ ┬┬─┐  ┌┐ ┌─┐┌─┐┬ ┬┌┬┐┬┌─┐┬ ┬┬    ┌─┐┌─┐┬  ┌─┐
-╠╣ ├┬┘├┤ ├┤    │  │└─┐ │ ├┤ │││    ├─┤│││ ││  ├┤ ├┤ ├┤ │    └┬┘│ ││ │├┬┘  ├┴┐├┤ ├─┤│ │ │ │├┤ │ ││    └─┐├┤ │  ├┤
-╚  ┴└─└─┘└─┘┘  ┴─┘┴└─┘ ┴ └─┘┘└┘    ┴ ┴┘└┘─┴┘  └  └─┘└─┘┴─┘   ┴ └─┘└─┘┴└─  └─┘└─┘┴ ┴└─┘ ┴ ┴└  └─┘┴─┘  └─┘└─┘┴─┘└o
+╔═╗┬─┐┌─┐┌─┐   ┬  ┬┌─┐┌┬┐┌─┐┌┐┌    ┌─┐┌┐┌┌┬┐  ┌─┐┌─┐┌─┐┬    ┬ ┬┌─┐┬ ┬┬─┐  ┌┐ ┌─┐┌─┐┬ ┬┌┬┐┬┌─┐┬ ┬┬    
+╠╣ ├┬┘├┤ ├┤    │  │└─┐ │ ├┤ │││    ├─┤│││ ││  ├┤ ├┤ ├┤ │    └┬┘│ ││ │├┬┘  ├┴┐├┤ ├─┤│ │ │ │├┤ │ ││    
+╚  ┴└─└─┘└─┘┘  ┴─┘┴└─┘ ┴ └─┘┘└┘    ┴ ┴┘└┘─┴┘  └  └─┘└─┘┴─┘   ┴ └─┘└─┘┴└─  └─┘└─┘┴ ┴└─┘ ┴ ┴└  └─┘┴─┘  
 
-``` bash
+
+                                          d ss.  d sss   d d s  b   sSSSs        
+                                          S    b S       S S  S S  S     S       
+                                          S    P S       S S   SS S              
+                                          S sSS' S sSSs  S S    S S              
+                                          S    b S       S S    S S    ssSb   
+                                          S    P S       S S    S  S     S   
+                                          P `SS  P sSSss P P    P   "sss"    
+
+
+`` bash
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
 
