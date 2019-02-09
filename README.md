@@ -42,23 +42,20 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 ╔═╗┬─┐┌─┐┌─┐   ┬  ┬┌─┐┌┬┐┌─┐┌┐┌    ┌─┐┌┐┌┌┬┐  ┌─┐┌─┐┌─┐┬    ┬ ┬┌─┐┬ ┬┬─┐  ┌┐ ┌─┐┌─┐┬ ┬┌┬┐┬┌─┐┬ ┬┬    
 ╠╣ ├┬┘├┤ ├┤    │  │└─┐ │ ├┤ │││    ├─┤│││ ││  ├┤ ├┤ ├┤ │    └┬┘│ ││ │├┬┘  ├┴┐├┤ ├─┤│ │ │ │├┤ │ ││    
 ╚  ┴└─└─┘└─┘┘  ┴─┘┴└─┘ ┴ └─┘┘└┘    ┴ ┴┘└┘─┴┘  └  └─┘└─┘┴─┘   ┴ └─┘└─┘┴└─  └─┘└─┘┴ ┴└─┘ ┴ ┴└  └─┘┴─┘  
-
-
-                                          d ss.  d sss   d d s  b   sSSSs        
-                                          S    b S       S S  S S  S     S       
-                                          S    P S       S S   SS S              
-                                          S sSS' S sSSs  S S    S S              
-                                          S    b S       S S    S S    ssSb   
-                                          S    P S       S S    S  S     S   
-                                          P `SS  P sSSss P P    P   "sss"    
+                                  d ss.  d sss   d d s  b   sSSSs        
+                                  S    b S       S S  S S  S     S       
+                                  S    P S       S S   SS S              
+                                  S sSS' S sSSs  S S    S S              
+                                  S    b S       S S    S S    ssSb   
+                                  S    P S       S S    S  S     S   
+                                  P `SS  P sSSss P P    P   "sss"    
 
 ```
 
-### TRIP I. From the cyberspace to the streets
+###  I. From the cyberspace to the streets
 
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
-
 By Chad Elias
 
 "The extraordinary proliferation of street art and  Graffiti
@@ -105,8 +102,6 @@ in the hope that they feel all the sadness of this morbid world."
 Cairo.
 
 
-### Art makes intersect universal human identities and experiences
-
 #### Queer Identity and Street Art Activism
 By Bansky
 
@@ -123,7 +118,9 @@ Bristol in 2002. The image was displayed on a cavanas for the first
 time in 2003 in a collective exhibition at the Vanina Holasek Gallery
 in New York."
 
-#### Requirements:
+
+
+### Requirements:
 
 ##### Python3 in ubuntu
 
