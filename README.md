@@ -20,7 +20,7 @@ Text, letters, numbers, symbols and special characters are one of the many tools
 
 ### What do you experience as the cyberspace, who exists there, who it belongs to?
 
-The limits of our creativity are constantly challenged by the invention of new worlds, new forms of expression, new technologies, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by ... humans (which humans)? bots? algorithms?, represents an invitation to reflect on how we use this space and question its role in shaping  us and our current society.
+The limits of our creativity are constantly challenged by the invention of new worlds, new forms of expression, new technologies, new spaces and new realities. The fact that we are more (dis-)connected but through virtual networks dominated by ... humans (which humans)? bots? algorithms?, represents an invitation to reflect on how we use this space and question its role in shaping  us and our current society.
 
  "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?"
 
