@@ -37,9 +37,6 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 °/° We will create something to bring us to existence, we will create something to be visible (^^), we will see us through others and we will connect our experiences with testimonies of people who we have never meet [==] or who have been always there but we have decided to never see /¬¬'/.
 
-          This is a collective project, it is an experiment to expand our souls, our minds, our hearts.
-
-
 ``` bash
 
 ╔═╗┬─┐┌─┐┌─┐   ┬  ┬┌─┐┌┬┐┌─┐┌┐┌    ┌─┐┌┐┌┌┬┐  ┌─┐┌─┐┌─┐┬    ┬ ┬┌─┐┬ ┬┬─┐  ┌┐ ┌─┐┌─┐┬ ┬┌┬┐┬┌─┐┬ ┬┬    
