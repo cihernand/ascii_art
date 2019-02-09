@@ -134,7 +134,10 @@ time in 2003 in a collective exhibition at the Vanina Holasek Gallery
 in New York."
 
 
-###  II. From the cyberspace to the streets
+###  II. ASCII Tool kit
+
+- Online resources:
+[ASCII Text Generator] (http://www.patorjk.com/software/taag/)
 
 
 
