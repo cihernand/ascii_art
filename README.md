@@ -26,11 +26,9 @@ The limits of our creativity are constantly challenged by the invention of new w
 
 These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/07/15/art-resistance-and-rebellion-on-the-net/) and the project [compArte](http://comparte.digital) digital, an invitation for rebellion and resistance to defend the cyberspace.
 
-
-``` bash
 "El mundo que queremos es uno donde quepan muchos mundos. La patria que construimos es una donde quepan todos los pueblos y sus lenguas, que todos los pasos la caminen, que todos la rían, que la amanezcan todos." - [Zapatistas](http://enlacezapatista.ezln.org.mx/)
 
-```
+
 
 ### Art, an universal language to portrait our human experiences
 
