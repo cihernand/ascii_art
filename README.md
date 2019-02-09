@@ -4,7 +4,7 @@ The cyberspace has opened a novel platform of communication and expression. In t
 
 The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult,  full of emotions and self reflection; similar to the way that existence and life just happen.
 
-### What is ASCII art?
+### What is ASCII ArtE?
 
 Text, letters, numbers, symbols and special characters are one of the many tools to express and communicate our ideas, feelings and personal narratives. The use of characters is as much a part of the cyberspace as emoticons, memes, gifs, or LOL. ASCII art is made of characters and it includes pictures and text like the following.:
 
