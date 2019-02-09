@@ -52,9 +52,12 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
                                           P `SS  P sSSss P P    P   "sss"    
 
 
-`` bash
+```
 
-#### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
+#### TRIP I. From the cyberspace to the streets
+
+
+The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
 
 By Chad Elias
 
