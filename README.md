@@ -136,10 +136,10 @@ in New York."
 
 ###  II. ASCII Tool kit
 
-- Online resources:
-[ASCII Text Generator](http://www.patorjk.com/software/taag/)
-[cowsay](https://textart.io/cowsay#)
-
+Online resources:
+*[ASCII Text Generator](http://www.patorjk.com/software/taag/)
+*[Cowsay](https://textart.io/cowsay#)
+*[Images to ASCII characters coverter](https://github.com/cihernand/ascii_art/blob/master/scripts/imagetotext.py)
 
 ### Requirements:
 
