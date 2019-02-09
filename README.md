@@ -58,14 +58,15 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 ###  I. From the Cyberspace to the Streets
 
-#### Experiences of anti-black racism   and sexual harassment
+#### Experiences of anti-black racism  and sexual harassment
 
 
 [Tatyana Fazlalizadeh](https://www.instagram.com/tlynnfaz/) is a Black/Iranian visual artist and Oklahoma City native. She is a painter whose work ranges from the gallery to the streets, using visual art to address the daily oppressive experiences of marginalized people through beautifully drawn and painted portraits. Her street art series, Stop Telling Women to Smile, can be found on walls across the globe. She is currently the inaugural Public Artist in Residence for the New York City Commission on Human Rights, a year long residency that will present the experiences of anti-black racism and sexual harassment experienced by New Yorkers through public art.
 
 
-[Chyna](https://www.instagram.com/p/BTXGQGsB-3s/), a teenage girl I met last year in a group discussion with black and brown girls from Brooklyn and Harlem. Her quote, "I shouldn't feel unsafe when I go outside" was a common sentiment in the group. 
+[Chyna](https://www.instagram.com/p/BTXGQGsB-3s/), a teenage girl I met last year in a group discussion with black and brown girls from Brooklyn and Harlem. Her quote, "I shouldn't feel unsafe when I go outside" was a common sentiment in the group.
 
+#### Healing from sexual violence and migration
 
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
