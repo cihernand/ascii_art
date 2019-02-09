@@ -4,6 +4,8 @@ The cyberspace has opened a novel platform of communication and expression. In t
 
 The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult,  full of emotions and self reflection; similar to the way that existence and life just happen.
 
+### What is ASCII art?
+
 Text, letters, numbers, symbols and special characters are one of the many tools to express and communicate our ideas, feelings and personal narratives. The use of characters is as much a part of the cyberspace as emoticons, memes, gifs, or LOL. ASCII art is made of characters and it includes pictures and text like the following.:
 
 ``` bash
@@ -24,7 +26,9 @@ The limits of our creativity are constantly challenged by the invention of new w
 
 These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/07/15/art-resistance-and-rebellion-on-the-net/) and the project [compArte](http://comparte.digital) digital, an invitation for rebellion and resistance to defend the cyberspace.
 
-### How do Street Art and ASCII ArtE intersect?
+### Art, an universal language to portrait our human experiences
+
+I want to invite you to navigate   
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
 
