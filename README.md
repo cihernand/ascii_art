@@ -31,7 +31,7 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 ``` bash
     / \ / \ / \   / \ / \ / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \   / \ / \ / \ / \   / \  / \
-°|° ( T | h | e ) **  (w | o | r | k | s | h | o | p ) ** ( s | t | a | r | t | s ) ** ( h | e | r | e )  °|°)  
+  °| ( T | h | e ) * (w | o | r | k | s | h | o | p ) * ( s | t | a | r | t | s ) * ( h | e | r | e )  |°  
     \_/   \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/  \_/  
 ```
 
