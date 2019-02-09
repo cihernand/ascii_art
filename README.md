@@ -1,3 +1,17 @@
+## Queer Cyberactivism with Art
+
+The cyberspace has opened a novel platform of communication and expression. In the case of the LGBTQ+ community, its existence has represented a place to be open and  make our identities visible. Whether this space is safe, accessible  and enables freedom  or not? It varies depending on who the user is. Currently, we live in a world where only some sectors of the population access certain privileges and they are blind to the problems experienced by others. For example, the struggles faced by individuals who are censored, criminalized or discriminated for who they are or their ideas; they still do not live with freedom. How can we awake as a community to develop solidarity for other groups fighting to be visible, recognized, respected,  and to prevent that their human rights continue to be denied. During the workshop, ASCII ArtE, we will challenge our senses to recognize in other persons both LGBTQ+ and non-LGBTQ+ certain aspects of life that are normally taken for granted, but unfortunately they are the exemption for many people living in realities under social and political conflicts, people belonging to different religions, social classes and nationalities, and people experiencing different health conditions. How can we stop a political culture and discourse for granting privileges and move towards building inclusive and universal changes?   
+
+The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult, solitary, full of emotions and self reflection; similar to the way that existence and life just happen.
+
+``` bash
+
+.--.     /\
+'--'    /__\    (^._.^)~ <(o.o )>
+
+```
+
+
 ## Cyberactivism with ASCII-ArtE
 
 Dear artists, creators and enthusiasts from the world,
@@ -8,9 +22,7 @@ Here are some questions from [Zapatistas](http://enlacezapatista.ezln.org.mx/201
 
 "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?"
 
-### Queer Cyberactivism with Art
 
-The cyberspace has opened a novel platform of communication and expression. In the case of the LGBTQ+ community, its existence has represented a place to be open and  make our identities visible. Whether this space is safe, accessible  and enables freedom  or not? It varies depending on who the user is. Currently, we live in a world where only some sectors of the population access certain privileges and they are blind to the problems experienced by others. For example, the struggles faced by individuals who are censored, criminalized or discriminated for who they are or their ideas; they still do not live with freedom. How can we awake as a community to develop solidarity for other groups fighting to be visible, recognized, respected,  and to prevent that their human rights continue to be denied. During the workshop, ASCII ArtE, we will challenge our senses to recognize in other persons both LGBTQ+ and non-LGBTQ+ certain aspects of life that are normally taken for granted, but unfortunately they are the exemption for many people living in realities under social and political conflicts, people belonging to different religions, social classes and nationalities, and people experiencing different health conditions. How can we stop a political culture and discourse for granting privileges and move towards building inclusive and universal changes?    
 
 ### How do Street Art and ASCII ArtE intersect?
 
