@@ -60,7 +60,6 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 #### Experiences of anti-black racism  and sexual harassment
 
-
 [Tatyana Fazlalizadeh](https://www.instagram.com/tlynnfaz/) is a Black/Iranian visual artist and Oklahoma City native. She is a painter whose work ranges from the gallery to the streets, using visual art to address the daily oppressive experiences of marginalized people through beautifully drawn and painted portraits. Her street art series, Stop Telling Women to Smile, can be found on walls across the globe. She is currently the inaugural Public Artist in Residence for the New York City Commission on Human Rights, a year long residency that will present the experiences of anti-black racism and sexual harassment experienced by New Yorkers through public art.
 
 
@@ -68,6 +67,8 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 #### Healing from sexual violence and migration
 
+[Jess X. Snow] (https://www.instagram.com/jessxsnow/) is a queer migrant asian-canadian filmmaker, artist and pushcart-nominated poet. A graduate of the Rhode Island School of Design, she is currently studying for an MFA in directing at the NYU Tisch School of The Arts. Her art has found home on the facades of seven-story buildings, the pages of children’s books and tiny lapel pins.
+She uses magical realism, mythology and science fiction as tools to explore the what care for the body and land can look like in the queer migrant future. In her work, after assault and trauma, her characters develop abilities to teleport, cross borders, regenerate and heal themselves and the planet.
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
 By Chad Elias
