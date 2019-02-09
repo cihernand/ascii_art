@@ -28,7 +28,14 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 ### Art, an universal language to portrait our human experiences
 
-                       (°|°       This is the part where the workshop starts...   °|°)  
+
+``` bash
+          _     _   _   _     _   _   _   _   _   _   _   _     _   _   _   _   _   _     _   _   _   _     _  
+          / \   / \ / \ / \   / \ / \ / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \   / \ / \ / \ / \   / \
+          (°|° ( T | h | e ) ( w | o | r | k | s | h | o | p ) ( s | t | a | r | t | s ) ( h | e | r | e )  °|°)  
+          \_/   \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/   \_/
+
+```
 
 °/° We will create something to bring us to existence, we will create something to be visible (^^), we will see us through others and we will connect our experiences with testimonies of people who we have never meet [==] or who have been always there but we have decided to never see /¬¬'/.
 
@@ -36,7 +43,6 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 
 ``` bash
-
 
 ╔═╗┬─┐┌─┐┌─┐   ┬  ┬┌─┐┌┬┐┌─┐┌┐┌    ┌─┐┌┐┌┌┬┐  ┌─┐┌─┐┌─┐┬    ┬ ┬┌─┐┬ ┬┬─┐  ┌┐ ┌─┐┌─┐┬ ┬┌┬┐┬┌─┐┬ ┬┬    
 ╠╣ ├┬┘├┤ ├┤    │  │└─┐ │ ├┤ │││    ├─┤│││ ││  ├┤ ├┤ ├┤ │    └┬┘│ ││ │├┬┘  ├┴┐├┤ ├─┤│ │ │ │├┤ │ ││    
@@ -50,7 +56,6 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
                                           S    b S       S S    S S    ssSb   
                                           S    P S       S S    S  S     S   
                                           P `SS  P sSSss P P    P   "sss"    
-
 
 ```
 
