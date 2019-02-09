@@ -5,10 +5,10 @@ The cyberspace has opened a novel platform of communication and expression. In t
 The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult, solitary, full of emotions and self reflection; similar to the way that existence and life just happen.
 
 ``` bash
-            ^|^               ___     _   _ U _____ uU _____ u   ____     
+            ^^                ___     _   _ U _____ uU _____ u   ____     
                              / " \ U |"|u| |\| ___"|/\| ___"|/U |  _"\ u  
-      ¬¬                    | |"| | \| |\| | |  _|"   |  _|"   \| |_) |/  
-             °|°)          /| |_| |\ | |_| | | |___   | |___    |  _ <    
+     ¬¬'                    | |"| | \| |\| | |  _|"   |  _|"   \| |_) |/          %%..%%
+             °|°)          /| |_| |\ | |_| | | |___   | |___    |  _ <       °/°    ==
                            U \__\_\u<<\___/  |_____|  |_____|   |_| \_\                               
               000000000000000000000000000000000000000000000000000000000000000000000000000             
                               (_(__)    (__) (__) (__)(__) (__) (__)  (__)
