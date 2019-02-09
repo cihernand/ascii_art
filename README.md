@@ -1,8 +1,10 @@
-## Queer Cyberactivism with Art
+## Queer Cyberactivism with ASCII ArtE
 
 The cyberspace has opened a novel platform of communication and expression. In the case of the LGBTQ+ community, its existence has represented a place to be open and  make our identities visible. Whether this space is safe, accessible  and enables freedom  or not? It varies depending on who the user is. Currently, we live in a world where only some sectors of the population access certain privileges and they are blind to the problems experienced by others. For example, the struggles faced by individuals who are censored, criminalized or discriminated for who they are or their ideas; they still do not live with freedom. How can we awake as a community to develop solidarity for other groups fighting to be visible, recognized, respected,  and to prevent that their human rights continue to be denied. During the workshop, ASCII ArtE, we will challenge our senses to recognize in other persons both LGBTQ+ and non-LGBTQ+ certain aspects of life that are normally taken for granted, but unfortunately they are the exemption for many people living in realities under social and political conflicts, people belonging to different religions, social classes and nationalities, and people experiencing different health conditions. How can we stop a political culture and discourse for granting privileges and move towards building inclusive and universal changes?   
 
-The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult, solitary, full of emotions and self reflection; similar to the way that existence and life just happen.
+The journey of this workshop has been drawn by experiences both mine and from close friends. It is a bit messy and chaotic, unexpected, challenging, difficult,  full of emotions and self reflection; similar to the way that existence and life just happen.
+
+Text, letters, numbers, symbols and special characters are our daily tool to express and communicate our ideas, feelings and personal narratives. The use of characters is as much a part of the cyberspace as emoticons, memes, gifs, or LOL. ASCII art is made of characters and it includes pictures and text  like the following.:
 
 ``` bash
             ^^                ___     _   _ U _____ uU _____ u   ____     
@@ -14,17 +16,13 @@ The journey of this workshop has been drawn by experiences both mine and from cl
                               (_(__)    (__) (__) (__)(__) (__) (__)  (__)
 ```
 
-## Cyberactivism with ASCII-ArtE
+### What do you experience as the cyberspace, who exists there, who it belongs to?
 
-Dear artists, creators and enthusiasts from the world,
+The limits of our creativity are constantly challenged by the invention of new worlds, new forms of expression, new technologies, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by ... humans (which humans)? bots? algorithms?, represents an invitation to reflect on how we use this space and question its role in shaping  us and our current society.
 
-The limits of our creativity are constantly challenged by the invention of new worlds, new forms of expression, new technologies, new spaces and new realities. The fact that we are more connected but through virtual networks dominated by bots and algorithms, represents an invitation for rebellion and resistance to defend the cyberspace.
+ "Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?"
 
-Here are some questions from [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/07/15/art-resistance-and-rebellion-on-the-net/) and the project [compArte](http://comparte.digital) digital :
-
-"Is the Net a space of domination, domestication, hegemony and homogeneity? Or is it a space in dispute, in struggle? Can we speak of a digital materialism? You who create art there, do you see the storm? Do you suffer from it? Do you resist? Do you rebel?"
-
-
+These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/07/15/art-resistance-and-rebellion-on-the-net/) and the project [compArte](http://comparte.digital) digital, an invitation for rebellion and resistance to defend the cyberspace. 
 
 ### How do Street Art and ASCII ArtE intersect?
 
