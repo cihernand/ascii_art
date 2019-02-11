@@ -72,7 +72,12 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 #### Healing from sexual violence and migration
 
 "[Jess X. Snow](https://www.instagram.com/jessxsnow/) is a queer migrant asian-canadian filmmaker, artist and pushcart-nominated poet. A graduate of the Rhode Island School of Design, she is currently studying for an MFA in directing at the NYU Tisch School of The Arts. Her art has found home on the facades of seven-story buildings, the pages of children’s books and tiny lapel pins."
-She uses magical realism, mythology and science fiction as tools to explore the what care for the body and land can look like in the queer migrant future. In her work, after assault and trauma, her characters develop abilities to teleport, cross borders, regenerate and heal themselves and the planet.
+"She uses magical realism, mythology and science fiction as tools to explore the what care for the body and land can look like in the queer migrant future. In her work, after assault and trauma, her characters develop abilities to teleport, cross borders, regenerate and heal themselves and the planet."
+
+
+``` bash
+ “Dear trans sibling survivor, despite how they’ve tried to silence all our brilliance, we are STILL HERE.”                   #SurvivorLoveLetter 
+ ```
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
 By Chad Elias
