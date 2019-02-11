@@ -76,7 +76,10 @@ These questions come from  [Zapatistas](http://enlacezapatista.ezln.org.mx/2017/
 
 
 ``` bash
- “Dear trans sibling survivor, despite how they’ve tried to silence all our brilliance, we are STILL HERE.”                   #SurvivorLoveLetter 
+ “Dear trans sibling survivor, 
+ despite how they’ve tried to silence all our brilliance, 
+ we are STILL HERE.”                   
+ #SurvivorLoveLetter 
  ```
 
 #### The Role of Graffiti and Street Art in the public life, images in the Egyptian revolution.
@@ -134,14 +137,18 @@ By Bansky
 first images printed at prictures On Walls, the artist's print
 house, which opened its doors in 2003 at 46 Commercial Rd., London.
 Bansky is famous for satirizing power: the image depics Queen
-Victoria as a lesbian engaged in "queening". Queen Victoria
-once declared that woman aren't able to be gay and approved laws
-against homosexuality. The stencil is located on the rulling
+Victoria as a lesbian engaged in "queening".  The stencil is located on the rulling
 shutter of a store between St. Mark's Road and Brenner Street in
 Bristol in 2002. The image was displayed on a cavanas for the first
 time in 2003 in a collective exhibition at the Vanina Holasek Gallery
 in New York."
 
+``` bash
+Queen Victoria once declared that woman aren't 
+able to be gay and approved laws
+against homosexuality.
+
+ ```
 
 ###  II. ASCII Tool kit
 
