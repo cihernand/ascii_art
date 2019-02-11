@@ -144,9 +144,9 @@ time in 2003 in a collective exhibition at the Vanina Holasek Gallery
 in New York."
 
 ``` bash
-Queen Victoria once declared that woman aren't 
+"Queen Victoria once declared that woman aren't 
 able to be gay and approved laws
-against homosexuality.
+against homosexuality."
 
  ```
 
